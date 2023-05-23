@@ -1,0 +1,26 @@
+/*Global*/
+
+body {
+    margin: 50px 50px 50px 200px;
+    font-family: 'Lora', serif;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 35px;
+    color: #5c4e4e;
+}
+
+h2 {
+    font-size: 20px;
+    font-style: italic;
+}
+
+span {
+    font-style: italic;
+}
+
+footer {
+    font-size: 12px;
+    padding-top: 10px;
+}
