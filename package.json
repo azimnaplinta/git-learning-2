@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.29.3"
+    "browser-sync": "^2.29.3",
+    "html-validate": "^7.17.0",
+    "html-validator": "^6.0.1"
   }
 }
